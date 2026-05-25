@@ -75,15 +75,24 @@ My previous HSE career trained me to work with discipline in environments where 
 - Building production-style runbooks and incident simulations.
 - Preparing for Cloud Engineer and DevOps interviews.
 
-## GitHub Activity
+## Portfolio Signals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larrycloud&show_icons=true&theme=github_dark&hide_border=true" alt="Larry GitHub stats" />
-</p>
+| Signal | Evidence |
+| --- | --- |
+| CI/CD | GitHub Actions workflows for Terraform, Lambda, RDS migration, observability and static site validation |
+| Infrastructure as Code | Terraform custom IAM policy, CloudFormation templates for Lambda automation and RDS migration |
+| Observability | Prometheus, Grafana, Loki, dashboards, alerting rules and troubleshooting runbook |
+| Security | Least privilege IAM, tag-based EC2 permissions, `NoEcho` parameters, `.env.example` and no committed credentials |
+| Operations | Runbooks for EC2 auto-remediation, database migration and observability incident response |
+| Cloud Architecture | AWS Organizations, ECS, EKS, RDS, Lambda, EventBridge, S3, CloudFront, Route 53 and CloudWatch |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrycloud&layout=compact&theme=github_dark&hide_border=true" alt="Larry top languages" />
-</p>
+## Repository Focus
+
+- `aws-lambda-ec2-auto-remediation`: operational automation and event-driven remediation.
+- `observability-stack-prometheus-grafana-loki`: metrics, logs, dashboards and alerts.
+- `terraform-iam-user-ec2-access`: IAM least privilege with Terraform validation.
+- `amazon-rds-database-migration`: database modernization with reproducible migration assets.
+- `aws-portfolio-web`: production-style static hosting with source validation.
 
 ## Contact
 
